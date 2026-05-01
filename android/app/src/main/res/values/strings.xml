@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Muslim Student Companion</string>
+    <string name="title_activity_main">Muslim Student Companion</string>
+    <string name="package_name">com.zaahidm8.muslimstudentcompanion</string>
+    <string name="custom_url_scheme">com.zaahidm8.muslimstudentcompanion</string>
+</resources>

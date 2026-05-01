@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" rx="180" fill="#064E3B"/>
+  <!-- Lantern body -->
+  <rect x="387" y="340" width="250" height="320" rx="18" fill="#065F46"/>
+  <rect x="387" y="340" width="250" height="320" rx="18" fill="none" stroke="#D4A574" stroke-width="10"/>
+  <!-- Crescent moon inside lantern -->
+  <path d="M560 430 A90 90 0 1 1 480 550 A65 65 0 1 0 560 430Z" fill="#FCD34D"/>
+  <!-- Lantern top -->
+  <polygon points="512,260 370,340 654,340" fill="#065F46" stroke="#D4A574" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Lantern base -->
+  <rect x="400" y="660" width="224" height="24" rx="6" fill="#D4A574"/>
+  <!-- Hook -->
+  <rect x="504" y="210" width="16" height="52" rx="6" fill="#D4A574"/>
+  <!-- Glow -->
+  <ellipse cx="512" cy="500" rx="140" ry="180" fill="#FCD34D" opacity="0.06"/>
+</svg>
